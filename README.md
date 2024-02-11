@@ -10,7 +10,7 @@ A idéia do projeto era replicar uma página estática que poderá ser utilizada
 
 Também foi aplicado o recurso de responsividade para que a página se adeque a outros dispositivos.
 
-| ---------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------------------------------------------------------------------------------------------------------|
 
 **GB-US**
 
